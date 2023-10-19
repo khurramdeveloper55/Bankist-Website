@@ -393,6 +393,7 @@ h4 {
     top: 8.5rem;
     display: flex;
     flex-direction: column;
+    overflow: hidden !important;
   }
   .nav__item {
     padding: 1rem 0;
